@@ -14,5 +14,5 @@ Luego de analizar los datos y encontrar informacion de gran valor se develan los
 En este repositorio se puede encontrar toda la informacion y resolucion para la toma de decision del cliente Automotors Servicio Automotriz.
 
 # Instrucciones:
-Las instrucciones del proyecto se encuentran en el siguiente link: descripcion.pdf
+Las instrucciones del proyecto se encuentran en el siguiente link: [descripcion.pdf](https://github.com/MichelVillot/Automotriz/blob/main/descripcion.pdf)https://github.com/MichelVillot/Automotriz/blob/main/descripcion.pdf
 
